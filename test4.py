@@ -12,4 +12,4 @@ def convert(x):
       print ("Το",num,"δεν ειναι πρώτος αριθμός.")
     break
 
-convert('cat')
+convert('dog')
